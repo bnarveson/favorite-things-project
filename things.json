@@ -1,0 +1,31 @@
+{
+    "Games": [
+        {
+            "title": "Assassins Creed",
+            "info": "Assassins Creed is an immersive series that follows an assassin on his journey to stop the Templars from enslaving the world.",
+            "image": '"fancy.gif" width="500" height="281" alt="moving Assassins Creed logo">'
+        },
+        {
+            "title": "Deus Ex",
+            "info": "Deus Ex takes place in a futuristic world in which the biggest issue of the time is regarding the regulations on body enhancements. You take on the role of detective Jensen as he attempts to dismantle a conspiracy to control all body enhancements.",
+            "image": '"DeusEx.jpg" width="320" height="240" alt="Deus Ex poster">'
+        },
+        {
+            "title": "Dishonored",
+            "info": "Dishonored places you in the shoes of Corvo, the Grand Protector of the Empress of the Isles. He's just been framed for her murder and now he must use his combat skills, stealth, and newfound supernatural abilities to discover the truth of who was behind the murder and clear his name.",
+            "image": '"dishonored.jpg" width="480" height="270" alt="Dishonored 2 poster">'
+        }
+    ],
+    "TV": [
+        {
+            "title": "Rick and Morty",
+            "info": "Rick and Morty is an adult cartoon series that follows Rick Sanchez, the smartest man in the universe, as he drags his grandson along on wacky sci-fi adventures.",
+            "image": '"RickMorty.jpg" width="2981" height="1750" alt="Rick and Morty TV show">'
+        },
+        {
+            "title": "Breaking Bad",
+            "info": "Walter White is a chemist teacher at his local high school who discovers he has terminal cancer. Seeing that he has little time to live he decides to start cooking meth in an effort to leave his family with millions of dollars upon his passing. Breaking Bad shows the dangers that come with drug use and drug distributing.",
+            "image": '"breakingbad.jpg" width="400" height="600" alt="Breaking Bad TV show">'
+        }
+              ]
+}
